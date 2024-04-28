@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "A simple blog",
+  "scripts": {},
+  "author": {
+    "name": "Micael Santiago",
+    "email": "santiagoo.micael04@gmail.com",
+    "github": "https://github.com/micaelsantiago"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@somosprte/eslint-config": "^1.8.0"
+  },
+  "eslintConfig": {}
+}
